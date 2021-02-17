@@ -5,6 +5,9 @@
 Bienvenue dans le répertoire communautaire de l'AEIF!
 Ajoutez ici vos beaux projets!
 
+## Règles à respecter
+
+
 ## Tutoriel pour effectuer une _PULL REQUEST_
 
 &nbsp;Pour pouvoir poster un de vos projets sur le répertoire de l'AEIF, il faut passer par une __pull request__ afin que celle-ci puisse être validé par les membres du bureau. <br/>
