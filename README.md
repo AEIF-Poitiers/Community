@@ -2,9 +2,8 @@
 
 ![Logo AEIF](/images/aeif.png)
 
-Bienvenue dans le repository communautaire de l'AEIF!
+Bienvenue dans le répertoire communautaire de l'AEIF!
 Ajoutez ici vos beaux projets!
-Bonjour monde!
 
 ## Tutoriel pour effectuer une _PULL REQUEST_
 
@@ -39,3 +38,10 @@ Bonjour monde!
 
  4. Il faut ensuite appuyer sur le bouton `Create pull request`.
 
+![envois d'une pull request 2](/images/pull-request-2.png)
+
+&nbsp;Il suffit ensuite de mettre un titre et un message à la requête afin qu'elle puisse être étudié plus facilement et d'appuyer sur le bouton `Create pull request`.
+
+![attente validation pr](/images/pull-request-attente-validation.png)
+
+&nbsp;Il n'y a plus qu'à attendre la validation par un membre du bureau, si celle-ci n'est pas validé, un message expliquant le pourquoi du comment vous sera fourni.
