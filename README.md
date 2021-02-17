@@ -3,9 +3,27 @@
 ![Logo AEIF](/images/aeif.png)
 
 Bienvenue dans le répertoire communautaire de l'AEIF!
-Ajoutez ici vos beaux projets!
+
+Ce répertoire à pour objectif de regrouper et partager, sur la base du volontariat, vos codes et projets.
+
 
 ## Règles à respecter
+
+```
+.
+├── images
+├── projets
+│   └── votreProjet
+│       ├── src
+│       └── README.md
+└── README.md
+```
+
+&nbsp;Votre dossier devra se trouver dans le dossier `projets` du répertoire. Il est important que vous respectiez les conventions pour améliorer la lisibilité ainsi que l'orientation dans le répertoire. <br/>
+
+&nbsp;Votre projet devra contenir un descriptif (README.md) ainsi qu'un dossier `src` qui contiendra toute l'arborescence de votre code. A noter que nous n'accepteront pas les exécutables. Il vous est donc demandé d'expliquer comment exécuter votre code dans votre README. <br/>
+
+&nbsp;Nous vous conseillons de préciser le(s) auteurs à chaque début de fichiers. Il est à noter que ce répertoire est publique, en ajoutant votre projet, vous acceptez donc que celui-ci soit utilisé / récupéré par n'importe qui. 
 
 
 ## Tutoriel pour effectuer une _PULL REQUEST_
