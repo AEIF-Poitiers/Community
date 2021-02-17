@@ -14,7 +14,7 @@ Ajoutez ici vos beaux projets!
 
 ![Fork du répertoire](/images/fork.png)
 
-&nbsp;Dans un premier temps, il faut **fork** le répertoire de l'AEIF, pour il faut cliquer sur le bouton fork (voir image ci-dessus) et choisir le compte vers lequel le répertoire sera cloné.
+&nbsp;Dans un premier temps, il faut **fork** le répertoire de l'AEIF, pour cela, il faut cliquer sur le bouton fork (voir image ci-dessus) et choisir le compte vers lequel le répertoire sera cloné.
 
 ![Projets après le fork](/images/projet-clone.png)
 
@@ -22,7 +22,7 @@ Ajoutez ici vos beaux projets!
 
 * ### Effectuer ses changements sur le répertoire cloné
 
-&nbsp;Tous les changements que vous voudrez apporter au répertoire devront d'abord se faire sur le répertoire cloné. ainsi vous pourrez pull et push sans vous soucier des actions des autres utilisateurs.
+&nbsp;Tous les changements que vous voudrez apporter au répertoire devront d'abord se faire sur le répertoire cloné. Ainsi vous pourrez pull et push sans vous soucier des actions des autres utilisateurs.
 
 * ### Envoyer une pull request sur le répertoire de l'AEIF
 
