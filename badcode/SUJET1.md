@@ -11,7 +11,7 @@ trouver("ma", "Qui s'appelle Thomas?") -> FAUX
 
 ## Règles
 &nbsp;Nous vous imposons quelques règles à respecter : 
-- Votre fichier doit se trouver dans le dossier [rendus](./rendu) avec un nom de la forme `<Pseudo>_<nomDuProjet>.<ext>`
+- Votre fichier doit se trouver dans le dossier [rendus](./rendus) avec un nom de la forme `<Pseudo>_<nomDuProjet>.<ext>`
 - Validation des tests énoncés dans le sujet
 - Contient un commentaire initial précisant l'auteur et les explications de compilation / interprétation
 - Ne **pas** respecter les conventions et bonnes pratiques de programmation
