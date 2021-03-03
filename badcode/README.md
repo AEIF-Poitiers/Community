@@ -19,6 +19,8 @@
 - [Lien de la communauté](https://www.reddit.com/r/badcode)
 - [Lien de leur dernière itération du jeu](https://www.reddit.com/r/badcode/comments/lkzyfr/bad_code_coding_challenge_56_does_this_string)
 
+&nbsp;Nous ferons une évaluation des différents Chef-d'œuvres que vous proposerez sur la chaine [Twitch de l'AEIF](https://www.twitch.tv/aeif_poitiers) après la deadline.
+
 &nbsp;Vous souhaitez montrer à tous votre démarche pour créer votre délicieux code ? Pourquoi ne pas passer par [Twitch](https://www.twitch.tv/aeif_poitiers) ? N'hésitez pas à nous contacter pour soit organiser une session de code sur le stream de l'AEIF soit pour que le compte de l'AIEF vous host.
 
 &nbsp;Nous avons fait une faute d'orthographe irrecevable ? Nous avons écrit n'importe quoi ? Signalez le nous via Discord ou faites une pull-request avec la(les) modification(s).
