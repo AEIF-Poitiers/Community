@@ -1,0 +1,42 @@
+Message général:
+----------------
+
+Merci pour ce défi je me suis plu à rebosser un vieux langage de cauchemar :D Voir mon fichier de code source: badcode.pl
+(J'ai mis 2 solutions l'autre est le fichier libreoffice Calc).
+
+Donc ma solution repose sur swi-prolog, comme c'est insupportable je vous met directement un extrait de l'execution de mon prog:
+======================================
+Please run ?- license. for legal details.
+
+For online help and background, visit http://www.swi-prolog.org
+For built-in help, use ?- help(Topic). or ?- apropos(Word).
+
+?- trouver("Vincent", "Alexis monte une étagère").
+false.
+
+?- trouver("Vincent", "Alexis Vincentmonte une étagère").
+false.
+
+?- trouver("Vincent", "Alexis Vincent monte une étagère").
+true .
+
+?- trouver("Louis", "Je suis Louis, un adorateur d'Ocaml!").
+true .
+
+?- trouver("ma", "Qui s'appelle Thomas?").
+false.
+      
+?- halt.
+======================================
+
+
+Installation & lancement:
+-------------------------
+1. Il faut installer swi-prolog (sous windows ou linux, je conseille sous linux: sudo apt install swi-prolog).
+2. Lancer le terminal et se mettre dans le repertoire contenant le fichier badcode.pl
+3. lancer la commande: swipl badcode.pl
+4. Cela lance un toplevel (le prompt est ?-) où il suffit de taper trouver("mot","phrase"). AVEC LE POINT A LA FIN, qui indique fin de commande.
+ Le programme indique false ou true au lieu de VRAI ou FAUX comme dans votre exemple. ATTENTION: si la réponse est true il faut taper entrée pour récupérer la main. C'est une mécanique propre à swi-prolog et je ne peux rien faire contre.
+5. pour quitter taper la commande: halt. toujours avec le point au bout.
+
+Bon courage pour le lire et surtout comprendre le code!
